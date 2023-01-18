@@ -1,0 +1,20 @@
+{
+  "name": "tugas_day_18",
+  "version": "1.0.0",
+  "description": "Tugas day 18 Sanbercode 41",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/restirahayu/Tugas_day_18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restirahayu/Tugas_day_18/issues"
+  },
+  "homepage": "https://github.com/restirahayu/Tugas_day_18#readme"
+}
